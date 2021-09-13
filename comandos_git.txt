@@ -17,3 +17,4 @@ git commit -m "comita e deixa menssagem"
 git log - mostra tudo q ja foi comitado
 git log --online - mostra as alterações em uma linha
 git log -p - mostra as alteraçoes do commit
+mais comandos do git log https://devhints.io/git-log

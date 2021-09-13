@@ -23,3 +23,9 @@ Caso queira que o git ignore um arquivo. Crie um arquivo .gitignore.
 No arquivo .gitignore coloque nome do arquivo.extensão. 
 Se tiver em um diretorio diretorio/arquivo.extensão
 Use o git add no .gitignore e use o git commit -m
+
+Para usar repositorios externos
+
+git remote --bare - no diretorio criado para apenas leitura
+git remote para listar os diretorios remotos
+git remore add caminho do diretorio remoto

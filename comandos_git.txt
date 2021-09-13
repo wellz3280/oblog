@@ -1,5 +1,10 @@
 comandos git
 
+git config --global user.name "seu nome"
+git config --global user.email seuemail@provedor.com
+
+git confg --local user.name "seu nome" - para ser usado apenas em um projeto específico
+
 git init 
 
 git status 

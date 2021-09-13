@@ -29,3 +29,8 @@ Para usar repositorios externos
 git remote --bare - no diretorio criado para apenas leitura
 git remote para listar os diretorios remotos
 git remore add caminho do diretorio remoto
+
+git clone /C/Users/wellz/Documents/servidor/ projeto
+
+git push masters
+git pull 

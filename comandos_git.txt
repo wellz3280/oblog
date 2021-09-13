@@ -1,0 +1,9 @@
+comandos git
+
+git init 
+
+git status 
+
+git add - adiciona os arquivos
+gi add "nome do arquivo" -  adciona 1 arquivo especifico
+git commit -m "comita e deixa menssagem"

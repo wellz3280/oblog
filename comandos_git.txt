@@ -33,6 +33,6 @@ git remote -v
 git clone /C/Users/wellz/Documents/servidor/ projeto
 
 -- SINCRONIZANDO DADOS --	
-git push masters -- envia para o servidor
+git push servidor master -- envia para o servidor
 git remote rename origin nomedoservidor
 git pull 

@@ -11,5 +11,9 @@ git status
 
 git add . - adiciona os arquivos
 gi add "nome do arquivo" -  adciona 1 arquivo especifico
+
 git commit -m "comita e deixa menssagem"
+
 git log - mostra tudo q ja foi comitado
+git log --online - mostra as alterações em uma linha
+git log -p - mostra as alteraçoes do commit

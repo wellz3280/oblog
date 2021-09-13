@@ -18,3 +18,8 @@ git log - mostra tudo q ja foi comitado
 git log --online - mostra as alterações em uma linha
 git log -p - mostra as alteraçoes do commit
 mais comandos do git log https://devhints.io/git-log
+
+Caso queira que o git ignore um arquivo. Crie um arquivo .gitignore.
+No arquivo .gitignore coloque nome do arquivo.extensão. 
+Se tiver em um diretorio diretorio/arquivo.extensão
+Use o git add no .gitignore e use o git commit -m
